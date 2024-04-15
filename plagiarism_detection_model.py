@@ -8,8 +8,6 @@ from sklearn.feature_extraction.text import TfidfVectorizer
 
 from sklearn.metrics.pairwise import cosine_similarity
 
-os.chdir("/content/Test")
-
 #code to seprate text and images from word docx
 
 from docx import Document
