@@ -10,3 +10,12 @@ In other words, it balances the term’s commonality within a document (measured
 ## Cosine Similarity
 In text analysis, documents are often converted into vectors. Each dimension of the vector corresponds to a word from the document, with its value indicating the frequency or importance of that word.
 Cosine similarity allows us to compare documents based on their word representations, regardless of the specific details of each data point.
+### Prerequisite Packages ###
+1. scikit-learn
+2. python-docx
+### Libraries Used ###
+1. python-docx
+2. scikit-learn
+3. io
+4. os
+5. shutil
