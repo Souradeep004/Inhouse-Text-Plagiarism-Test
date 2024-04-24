@@ -1,4 +1,4 @@
-# Text-Plagiarism-Test
+# Inhouse Text-Plagiarism-Test
 Uses TF-IDF vectors from a list of documents followed by cosine similarity between two document vectors
 
 ## TF-IDF Vectors
