@@ -1,4 +1,4 @@
-# Inhouse Text-Plagiarism-Test
+# Textual Document Similitude Checker
 Uses TF-IDF vectors from a list of documents followed by cosine similarity between two document vectors
 
 ## TF-IDF Vectors
